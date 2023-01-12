@@ -14,7 +14,9 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-None
+None or
+React/NodeJS/SQL
+
 
 ### Education
 
